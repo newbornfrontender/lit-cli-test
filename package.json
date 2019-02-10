@@ -1,0 +1,8 @@
+{
+  "name": "lit-cli-test",
+  "version": "1.0.0",
+  "description": "Test CLI repo",
+  "repository": "https://github.com/newbornfrontender/lit-cli-test.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT"
+}
